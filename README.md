@@ -1,0 +1,2 @@
+# myTech
+For technique accumulation
